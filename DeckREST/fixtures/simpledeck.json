@@ -1,0 +1,395 @@
+[
+{
+  "fields": {
+    "num": 36
+  },
+  "model": "DeckREST.card",
+  "pk": 1
+},
+{
+  "fields": {
+    "num": 0
+  },
+  "model": "DeckREST.card",
+  "pk": 2
+},
+{
+  "fields": {
+    "num": 1
+  },
+  "model": "DeckREST.card",
+  "pk": 3
+},
+{
+  "fields": {
+    "num": 2
+  },
+  "model": "DeckREST.card",
+  "pk": 4
+},
+{
+  "fields": {
+    "num": 3
+  },
+  "model": "DeckREST.card",
+  "pk": 5
+},
+{
+  "fields": {
+    "num": 4
+  },
+  "model": "DeckREST.card",
+  "pk": 6
+},
+{
+  "fields": {
+    "num": 5
+  },
+  "model": "DeckREST.card",
+  "pk": 7
+},
+{
+  "fields": {
+    "num": 6
+  },
+  "model": "DeckREST.card",
+  "pk": 8
+},
+{
+  "fields": {
+    "num": 7
+  },
+  "model": "DeckREST.card",
+  "pk": 9
+},
+{
+  "fields": {
+    "num": 8
+  },
+  "model": "DeckREST.card",
+  "pk": 10
+},
+{
+  "fields": {
+    "num": 9
+  },
+  "model": "DeckREST.card",
+  "pk": 11
+},
+{
+  "fields": {
+    "num": 10
+  },
+  "model": "DeckREST.card",
+  "pk": 12
+},
+{
+  "fields": {
+    "num": 11
+  },
+  "model": "DeckREST.card",
+  "pk": 13
+},
+{
+  "fields": {
+    "num": 12
+  },
+  "model": "DeckREST.card",
+  "pk": 14
+},
+{
+  "fields": {
+    "num": 13
+  },
+  "model": "DeckREST.card",
+  "pk": 15
+},
+{
+  "fields": {
+    "num": 14
+  },
+  "model": "DeckREST.card",
+  "pk": 16
+},
+{
+  "fields": {
+    "num": 15
+  },
+  "model": "DeckREST.card",
+  "pk": 17
+},
+{
+  "fields": {
+    "num": 16
+  },
+  "model": "DeckREST.card",
+  "pk": 18
+},
+{
+  "fields": {
+    "num": 17
+  },
+  "model": "DeckREST.card",
+  "pk": 19
+},
+{
+  "fields": {
+    "num": 18
+  },
+  "model": "DeckREST.card",
+  "pk": 20
+},
+{
+  "fields": {
+    "num": 19
+  },
+  "model": "DeckREST.card",
+  "pk": 21
+},
+{
+  "fields": {
+    "num": 20
+  },
+  "model": "DeckREST.card",
+  "pk": 22
+},
+{
+  "fields": {
+    "num": 21
+  },
+  "model": "DeckREST.card",
+  "pk": 23
+},
+{
+  "fields": {
+    "num": 22
+  },
+  "model": "DeckREST.card",
+  "pk": 24
+},
+{
+  "fields": {
+    "num": 23
+  },
+  "model": "DeckREST.card",
+  "pk": 25
+},
+{
+  "fields": {
+    "num": 24
+  },
+  "model": "DeckREST.card",
+  "pk": 26
+},
+{
+  "fields": {
+    "num": 25
+  },
+  "model": "DeckREST.card",
+  "pk": 27
+},
+{
+  "fields": {
+    "num": 26
+  },
+  "model": "DeckREST.card",
+  "pk": 28
+},
+{
+  "fields": {
+    "num": 27
+  },
+  "model": "DeckREST.card",
+  "pk": 29
+},
+{
+  "fields": {
+    "num": 28
+  },
+  "model": "DeckREST.card",
+  "pk": 30
+},
+{
+  "fields": {
+    "num": 29
+  },
+  "model": "DeckREST.card",
+  "pk": 31
+},
+{
+  "fields": {
+    "num": 30
+  },
+  "model": "DeckREST.card",
+  "pk": 32
+},
+{
+  "fields": {
+    "num": 31
+  },
+  "model": "DeckREST.card",
+  "pk": 33
+},
+{
+  "fields": {
+    "num": 32
+  },
+  "model": "DeckREST.card",
+  "pk": 34
+},
+{
+  "fields": {
+    "num": 33
+  },
+  "model": "DeckREST.card",
+  "pk": 35
+},
+{
+  "fields": {
+    "num": 34
+  },
+  "model": "DeckREST.card",
+  "pk": 36
+},
+{
+  "fields": {
+    "num": 35
+  },
+  "model": "DeckREST.card",
+  "pk": 37
+},
+{
+  "fields": {
+    "num": 37
+  },
+  "model": "DeckREST.card",
+  "pk": 38
+},
+{
+  "fields": {
+    "num": 38
+  },
+  "model": "DeckREST.card",
+  "pk": 39
+},
+{
+  "fields": {
+    "num": 39
+  },
+  "model": "DeckREST.card",
+  "pk": 40
+},
+{
+  "fields": {
+    "num": 40
+  },
+  "model": "DeckREST.card",
+  "pk": 41
+},
+{
+  "fields": {
+    "num": 41
+  },
+  "model": "DeckREST.card",
+  "pk": 42
+},
+{
+  "fields": {
+    "num": 42
+  },
+  "model": "DeckREST.card",
+  "pk": 43
+},
+{
+  "fields": {
+    "num": 43
+  },
+  "model": "DeckREST.card",
+  "pk": 44
+},
+{
+  "fields": {
+    "num": 44
+  },
+  "model": "DeckREST.card",
+  "pk": 45
+},
+{
+  "fields": {
+    "num": 45
+  },
+  "model": "DeckREST.card",
+  "pk": 46
+},
+{
+  "fields": {
+    "num": 46
+  },
+  "model": "DeckREST.card",
+  "pk": 47
+},
+{
+  "fields": {
+    "num": 47
+  },
+  "model": "DeckREST.card",
+  "pk": 48
+},
+{
+  "fields": {
+    "num": 48
+  },
+  "model": "DeckREST.card",
+  "pk": 49
+},
+{
+  "fields": {
+    "num": 49
+  },
+  "model": "DeckREST.card",
+  "pk": 50
+},
+{
+  "fields": {
+    "num": 50
+  },
+  "model": "DeckREST.card",
+  "pk": 51
+},
+{
+  "fields": {
+    "num": 51
+  },
+  "model": "DeckREST.card",
+  "pk": 52
+},
+{
+  "fields": {
+    "seed": 400,
+    "draws": [
+      1,
+      38
+    ]
+  },
+  "model": "DeckREST.deck",
+  "pk": 1
+},
+{
+  "fields": {
+    "seed": 400,
+    "draws": [
+      1
+    ]
+  },
+  "model": "DeckREST.deck",
+  "pk": 2
+},
+{
+  "fields": {
+    "seed": 399,
+    "draws": []
+  },
+  "model": "DeckREST.deck",
+  "pk": 3
+}
+]
