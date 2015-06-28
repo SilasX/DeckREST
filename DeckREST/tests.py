@@ -28,3 +28,15 @@ class TestDeck(TestCase):
         self.assertEquals(expected, actual)
         # Then check that the next card is 48
         self.assertEquals(48, deck_obj.next_card().num)
+
+    def test_shuffle(self):
+        deck_obj = Deck(seed=400)
+        deck_obj.save()
+        first = deck_obj.next_card()
+        deck_obj.shuffle()
+        second = deck_obj.next_card()
+        deck_obj.shuffle()
+        deck_obj.shuffle()
+        third = deck_obj.next_card()
+        # Check that you got a different card at least once
+        self.assertTrue(len(set([first, second, third])) > 1)

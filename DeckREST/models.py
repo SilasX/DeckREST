@@ -38,3 +38,7 @@ class Deck(models.Model):
         if target_card not in self.draws.all():
             self.draws.add(target_card)
             self.save()
+
+    def shuffle(self):
+        random.seed()
+        self.seed = deck_seed()
